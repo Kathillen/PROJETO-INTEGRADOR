@@ -11,6 +11,7 @@ Este projeto tem a finalidade de facilitar a limpeza de dados com o power BI
 ## Tecnologias usadas:
 
 -Python
+-Jupyter
 
 ---
 
