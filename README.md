@@ -1,4 +1,4 @@
-# Abálise de dados PI
+# Análise de dados PI
 Sistema de limpza de dados com python
 
 
